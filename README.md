@@ -9,7 +9,7 @@ CSS Analog clock that takes in the current time from javascript and updates the 
 
 **Live link**
 
-Checkout the live page here:
+Checkout the live page here: https://cori-peck.github.io/clock/
 
 **Development Tools**
 
